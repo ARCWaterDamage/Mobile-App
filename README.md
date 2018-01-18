@@ -13,10 +13,12 @@
  ```
  Progressive Web Apps have few properties that most native apps do not (usually) enjoy:
 
-Zero-install. PWAs are just web pages. You can choose to keep them, but installing them is something you chose to do after you're already using them. Like regular web experiences, they start instantly and don't require a heavyweight commitment to get started.
-Install without App Store mediation. Users don't need to be directed to an App Store landing page or another indirect experience when keeping them.
-Update-on-use. Unlike the usual native app update strategy, PWAs are updated like web pages: using them gets you the latest version.
-Portability: these are just web sites that took all the right vitamins. There are many strategies for native app portability (including Hybrid apps), but unlike those strategies PWAs don't change your deployment and packaging model.
+ * Zero-install. PWAs are just web pages. You can choose to keep them, but installing them is something you chose to do after you're already using them. Like regular web experiences, they start instantly and don't require a heavyweight commitment to get started.
+ * Install without App Store mediation. Users don't need to be directed to an App Store landing page or another indirect experience when keeping them.
+ * Update-on-use. Unlike the usual native app update strategy, PWAs are updated like web pages: using them gets you the latest version.
+* Portability: these are just web sites that took all the right vitamins. There are many strategies for native app portability (including Hybrid apps), but unlike those strategies PWAs don't change your deployment and packaging model.
+
+
 Obviously, there are downsides too, but for many businesses the ability to be re-engaging on the web without the upfront friction makes PWAs a no-brainer.
 
 The downsides are mirrors of the upsides:
