@@ -10,7 +10,7 @@
 * https://console.firebase.google.com/u/0/project/push-pwa-e78ab/settings/cloudmessaging/
  
  ## Progressive Apps
- ```
+ 
  Progressive Web Apps have few properties that most native apps do not (usually) enjoy:
 
  * Zero-install. PWAs are just web pages. You can choose to keep them, 
@@ -35,4 +35,4 @@ The downsides are mirrors of the upsides:
  * Developing high-quality web experiences can be difficult for less skilled development teams.
  * Some folks list the lack of App Store listing as another downside, 
  but I'm not including it here as App Store discovery often doesn't work (relative to Search listing).
- ```
+ 
