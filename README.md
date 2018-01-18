@@ -8,6 +8,9 @@
 * https://console.firebase.google.com/?pli=1      
 * https://docs.google.com/spreadsheets/d/13NMZDxhRuVytPeh45eSNnYwFDVZhtnNyp6YQ0G5zdO8/edit#gid=0
 * https://console.firebase.google.com/u/0/project/push-pwa-e78ab/settings/cloudmessaging/
+
+## Good Barber 
+* [Feature Index](https://www.goodbarber.com/feature-index/)
  
  ## Progressive Apps
  
