@@ -11,6 +11,9 @@
 * [Work on Web App Manifest in WebKit has Begun](https://dockyard.com/blog/2017/10/25/work-on-web-app-manifest-in-webkit-has-begun)
 * [Wordpress](http://bayareafloodrepair.com/wp-admin/options-general.php)
 
+### Images
+* Background Image = between 320 x 320px and 1024 x 1024px
+
 ## Good Barber 
 * [Feature Index](https://www.goodbarber.com/feature-index/)
  
