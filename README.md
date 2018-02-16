@@ -13,6 +13,9 @@
 
 ### Images
 * Background Image = between 320 x 320px and 1024 x 1024px
+* Site logo = minimum image 512 x 512
+* Apple Touch Icon = 192 x 192
+
 
 ## Good Barber 
 * [Feature Index](https://www.goodbarber.com/feature-index/)
