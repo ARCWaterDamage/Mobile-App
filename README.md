@@ -46,3 +46,7 @@ The downsides are mirrors of the upsides:
  * Developing high-quality web experiences can be difficult for less skilled development teams.
  * Some folks list the lack of App Store listing as another downside, 
  but I'm not including it here as App Store discovery often doesn't work (relative to Search listing).
+
+## Facebook
+* https://developers.facebook.com/apps/210817259660827/fb-login/settings/
+* https://developers.facebook.com/quickstarts/210817259660827/?platform=web
