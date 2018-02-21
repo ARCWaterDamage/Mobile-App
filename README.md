@@ -50,3 +50,6 @@ The downsides are mirrors of the upsides:
 ## Facebook
 * https://developers.facebook.com/apps/210817259660827/fb-login/settings/
 * https://developers.facebook.com/quickstarts/210817259660827/?platform=web
+
+## Google
+* https://console.developers.google.com/apis/credentials?project=my-project-1519186320656&authuser=2
