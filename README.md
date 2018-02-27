@@ -35,7 +35,6 @@
 * Portability: these are just web sites that took all the right vitamins. 
 There are many strategies for native app portability (including Hybrid apps), 
 but unlike those strategies PWAs don't change your deployment and packaging model.
-
 Obviously, there are downsides too, but for many businesses the ability to be re-engaging on the web without the upfront friction makes PWAs a no-brainer.
 
 The downsides are mirrors of the upsides:
