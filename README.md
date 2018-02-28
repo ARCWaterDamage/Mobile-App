@@ -17,6 +17,10 @@
 * Apple Touch Icon = 192 x 192
 * Push Icon = Mandatory conditions: White image on transparent background.  Format: PNG.
 * Favicon
+* Background 640 x 128px
+* iPhone 7 Plus 1242 x 192px
+* iPhone 7 750 x 128px
+* Tablet and Desktop 2048 x 128px
 
 ## Good Barber 
 * [Feature Index](https://www.goodbarber.com/feature-index/)
